@@ -15,7 +15,7 @@
 			<h2 class="cta--lp__title">交通事故に遭ったら、いち早く弁護士に相談しましょう。</h2>
 			<p class="cta--lp__desc">交通事故の発生後、早い段階でご相談・ご依頼いただければ、交渉などをすべて弁護士が代理するので治療に専念できます。<br>また、適切な後遺障害を認定してもらえるよう通院についてのアドバイスもいたします。</p>
 		</div>
-		<div class="column small-12 large-2 text-center"><a href="#contact" class="button large waves-effect">相談してみる</a></div>
+		<div class="column small-12 large-2 text-center"><a href="https://www.law-yamashita.com/reserve" target="_blank" class="button large waves-effect">相談してみる</a></div>
 	</div>
 </div>
 
@@ -26,7 +26,7 @@
 		<li><a href="#section-3" title="解決事例までの流れ">解決事例までの流れ</a></li>
 		<li><a href="#section-4" title="事務所の特長">事務所の特長</a></li>
 		<li><a href="#section-5" title="お客様の声">お客様の声</a></li>
-		<li><a href="#contact" title="無料相談予約">無料相談予約</a></li>
+		<li><a href="https://www.law-yamashita.com/reserve" target="_blank" title="無料相談予約">無料相談予約</a></li>
 	</ul>
 </nav>
 
@@ -85,8 +85,7 @@
 				<p>　被害者（80代半ば。無職）は、信号のない交差点にて横断歩道を歩行中に、左方より自動車にはねられた。<span class="bg-line">当方過失ゼロ。</span>頭部打撲裂創、外傷性くも膜下出血により約5ヶ月入院後、死亡。
 					<span class="bg-line">当事務所において裁判基準に基づいて計算</span>したところ、<span class="bg-line">保険会社提示額より1,000万円強の増額</span>となり、保険会社もこれを認めた。</p>
 			</div>
-			<p class="text-center">その他、交通事故関係の解決事例は<a href="https://www.law-yamashita.com/cases-category/traffic-acc" target="_blank" title="解決事例　カテゴリー：交通事故"
-				    class="link-external">解決事例　カテゴリー：交通事故</a>に多数掲載しております。</p>
+			<p class="text-center">その他、交通事故関係の解決事例は<a href="https://www.law-yamashita.com/cases-category/traffic-acc" target="_blank" title="解決事例　カテゴリー：交通事故" class="button">解決事例　カテゴリー：交通事故</a>に多数掲載しております。</p>
 		</div>
 	</div>
 </section>
@@ -99,7 +98,7 @@
 		</div>
 		<div class="column small-12 medium-3 large-2 text-center"><img src="<?php echo '//www.law-yamashita.com/wp-content/themes/law-yamashita/assets/img/lp/jiko/soudan-free.png'; ?>"
 			    alt="交通事故に遭われたらお早めに弁護士へ無料の相談しましょう。"></div>
-		<div class="column small-12"><a href="#contact" class="button large wave-effects">今すぐ相談する</a></div>
+		<div class="column small-12"><a href="https://www.law-yamashita.com/reserve" target="_blank" class="button large wave-effects">今すぐ相談する</a></div>
 	</div>
 </section>
 
@@ -205,6 +204,7 @@
 		?>
 		</div>
 	</div>
+	<p class="text-center">その他、交通事故関係のお客様の声は<a href="https://www.law-yamashita.com/voice-category/traffic-acc" target="_blank" title="お客様の声　カテゴリー：交通事故" class="button">お客様の声　カテゴリー：交通事故</a>に多数掲載しております。</p>
 </section>
 
 <section id="section-6" class="section--lp" data-magellan-target="section-6">
@@ -226,7 +226,7 @@
 		</div>
 		<div class="column small-12 small-3 large-2 text-center"><img src="<?php echo '//www.law-yamashita.com/wp-content/themes/law-yamashita/assets/img/lp/jiko/soudan-free.png'; ?>"
 			    alt="広島最大級の山下江法律事務所なら交通事故の相談が無料！"></div>
-		<div class="column small-12 text-center"><a href="#contact" class="button large waves-effect">今すぐ相談する</a></div>
+		<div class="column small-12 text-center"><a href="https://www.law-yamashita.com/reserve" target="_blank" class="button large waves-effect">今すぐ相談する</a></div>
 	</div>
 </div>
 
@@ -234,36 +234,6 @@
 	<div class="row contents">
 		<div class="column small-12">
 			<h2 class="jiko-section_title">交通事故の無料相談</h2>
-			<div class="article-body">
-				<p>法律相談は、ご予約の上、当事務所までお越しいただくことになります。<br />
- <strong><span style="color: #ff0000;">メールでのご回答はいたしかねますので、あらかじめご了承ください。</span></strong></p>
-<p><a id="a-tel-contact" class="button" href="https://www.law-yamashita.com/consultation-flow#sec-3" target="_blank" rel="noopener">電話での相談をご希望の方</a></p>
-<p>なお、お問い合わせ内容により、回答にお時間がかかる場合がございます。</p>
-<p><a class="button secondary" href="https://www.law-yamashita.com/rates#sec-12" target="_blank" rel="noopener">他事務所からの弁護士交替のご依頼などについて</a></p>
-<h2>当日や翌営業日ご希望の方、お急ぎの方へ</h2>
-				<h3>当日や翌営業日ご希望の方、お急ぎの方へ</h3>
-				<table>
-					<thead>
-						<tr>
-							<th>お問い合わせ先</th>
-							<th>電話番号</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td>法律相談のご予約専用ダイヤル</td>
-							<td><a title="ご予約専用ダイヤル" href="tel:0120783409"><img class="alignnone size-full wp-image-1131" src="//www.law-yamashita.com/wp-content/uploads/2015/07/header-tel.jpg" alt="法律相談ご予約専用ダイヤル" width="344" height="44" /></a></td>
-						</tr>
-					</tbody>
-				</table>
-				<h3>メールでのご相談予約</h3>
-				<?php echo do_shortcode( '[contact-form-7 id="1152" title="法律相談のご予約"]' ); ?>
-			</div>
-		</div>
+			<p class="text-center"><a class="button large" href="https://www.law-yamashita.com/reserve" target="_blank">今すぐWeb予約</a></p>
 	</div>
 </section>
-
-<ul class="no-bullet m0 link-external-block text-center">
-	<li>山下江法律事務所の交通事故専門サイトもごらんください！</li>
-	<li><a class="link-external img" href="https://hiroshima-jiko.com/" target="_blank" title="山下江法律事務所の交通事故サイト"><img src="https://www.law-yamashita.com//wp-content/uploads/2015/05/external-links-1.png" alt="賠償金額が増額するケースが大半！交通事故の専門サイト"></a></li>
-</ul>
